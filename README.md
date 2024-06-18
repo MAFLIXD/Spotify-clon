@@ -1,2 +1,2 @@
 # Spotify-clon
-spotify-clon
+spotify-clon-music
